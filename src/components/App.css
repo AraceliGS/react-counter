@@ -1,0 +1,11 @@
+body {
+  padding: 1.5em 2em;
+}
+
+.counter-container {
+  font-size: 2em;
+}
+
+.counter-container span {
+  margin: 0 0.5em;
+}
